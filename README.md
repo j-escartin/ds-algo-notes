@@ -49,20 +49,22 @@ This repository contains:
 git clone https://github.com/yourusername/algorithms-and-data-structures-journey.git
 cd algorithms-and-data-structures-journey
 ```
-2️⃣ ***Explore the folders***
+2️⃣ **Explore the folders**
 
 Each course/module has its own directory with notes, problems, and solutions.
 
-3️⃣ ***Run & Test the Solutions***
+3️⃣ **Run & Test the Solutions**
 
 If you want to run a Python solution:
 ```bash
 python course-folder/problem-name.py
 ```
 
-4️⃣ ***Learn & Contribute***
+4️⃣ **Learn & Contribute**
 
 Feel free to fork, suggest improvements, or discuss better solutions! 🤝
+
+---
 
 ## ⚡ Connect with Me!
 📌 [LinkedIn]('https://www.linkedin.com/in/j-escartin/')
